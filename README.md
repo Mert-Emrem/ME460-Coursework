@@ -4,7 +4,7 @@ This repository includes the three-part project assigned during the course ME460
 
 # Report #1
 
-Position-level forward and inverse kinematics of a serial RRP (spherical) manipulator.
+Position-level forward and inverse kinematics of a serial RRP (spherical) manipulator. Excel model + MATLAB code.
 
 # Report #2
 
