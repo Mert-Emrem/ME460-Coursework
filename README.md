@@ -2,7 +2,7 @@
 
 This repository includes the three-part project assigned during the course ME460.
 
-<img src="Report%20%231/RRP.png" width = "300">
+<img src="Report%20%231/RRP.png" width = "500">
 
 
 # Report #1
